@@ -8,4 +8,5 @@ To install, just clone this repository into your directory.
 # Running the Program
 To run the program, type "make" into your terminal, then run the executable.
 > make
+> 
 > ./executable.exe
